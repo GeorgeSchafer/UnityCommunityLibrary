@@ -4,7 +4,7 @@ using UnityEditor;
 
 namespace UnityLibrary
 {
-    public class UnparentMe
+    public class Unparent
     {
         // https://docs.unity3d.com/ScriptReference/MenuItem.html
         // shift U shortcut key
